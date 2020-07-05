@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1005223364003",
+    "firebase_url": "https://instant-group-bec5e.firebaseio.com",
+    "project_id": "instant-group-bec5e",
+    "storage_bucket": "instant-group-bec5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005223364003:android:47c292729a4e8d4ba50616",
+        "android_client_info": {
+          "package_name": "com.example.instantgroup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005223364003-kf6kh3el75b06hsc3ib8nq6kdelg1epr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEtHhhcc0cUVsvQibyOiu2POGfzs2rdV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005223364003-kf6kh3el75b06hsc3ib8nq6kdelg1epr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
